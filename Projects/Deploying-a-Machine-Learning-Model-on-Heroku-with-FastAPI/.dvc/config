@@ -1,0 +1,5 @@
+[core]
+    remote = dvcstore
+    hardlink_lock = true
+['remote "dvcstore"']
+    url = s3://census-analytics
